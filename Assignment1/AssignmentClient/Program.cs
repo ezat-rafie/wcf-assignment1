@@ -33,21 +33,21 @@ namespace AssignmentClient
                         Console.Write("Enter number: ");
                         int n1 = int.Parse(Console.ReadLine());
                         Console.WriteLine(client.CheckPrimeNumber(n1));
-                        Console.WriteLine("Press any key to go back to menu...");
+                        Console.WriteLine("Press enter to go back to menu...");
                         Console.ReadLine();
                         break;
                     case "2":
                         Console.Write("Enter number: ");
                         int n2 = int.Parse(Console.ReadLine());
                         Console.WriteLine("The sum of digits is: " + client.SumOfDigits(n2));
-                        Console.WriteLine("Press any key to go back to menu...");
+                        Console.WriteLine("Press enter to go back to menu...");
                         Console.ReadLine();
                         break;
                     case "3":
                         Console.Write("Enter string: ");
                         string input = Console.ReadLine();
                         Console.WriteLine("The reverse is: " + client.ReverseString(input));
-                        Console.WriteLine("Press any key to go back to menu...");
+                        Console.WriteLine("Press enter to go back to menu...");
                         Console.ReadLine();
                         break;
                     case "4":
@@ -56,7 +56,7 @@ namespace AssignmentClient
                         Console.Write("Enter data: ");
                         string data = Console.ReadLine();
                         Console.WriteLine("The HTML tag is: " + client.PrintTag(tag, data));
-                        Console.WriteLine("Press any key to go back to menu...");
+                        Console.WriteLine("Press enter to go back to menu...");
                         Console.ReadLine();
                         break;
                     case "5":
@@ -66,7 +66,7 @@ namespace AssignmentClient
                         Console.Write("Enter sort type: ");
                         string sortType = Console.ReadLine();
                         Console.WriteLine("The sorted array is: " + String.Join(",", client.SortNumbers(sortType,ints).Select(x => x.ToString()).ToArray()));
-                        Console.WriteLine("Press any key to go back to menu...");
+                        Console.WriteLine("Press enter to go back to menu...");
                         Console.ReadLine();
                         break;
                 }
