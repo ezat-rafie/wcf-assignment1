@@ -1,0 +1,7 @@
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\Assignment1\bin\Assignment1.dll.config
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\Assignment1\bin\Assignment1.dll
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\Assignment1\bin\Assignment1.pdb
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.dll
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

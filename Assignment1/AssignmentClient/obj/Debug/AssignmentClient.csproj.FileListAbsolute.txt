@@ -1,0 +1,8 @@
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\AssignmentClient\bin\Debug\AssignmentClient.exe.config
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\AssignmentClient\bin\Debug\AssignmentClient.exe
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\AssignmentClient\bin\Debug\AssignmentClient.pdb
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\AssignmentClient\obj\Debug\AssignmentClient.csproj.AssemblyReference.cache
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\AssignmentClient\obj\Debug\AssignmentClient.csproj.SuggestedBindingRedirects.cache
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\AssignmentClient\obj\Debug\AssignmentClient.csproj.CoreCompileInputs.cache
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\AssignmentClient\obj\Debug\AssignmentClient.exe
+E:\Semester 5\DistrubutedApps\Assignment1\wcf-assignment1\Assignment1\AssignmentClient\obj\Debug\AssignmentClient.pdb
